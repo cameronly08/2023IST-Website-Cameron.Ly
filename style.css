@@ -9,7 +9,7 @@ margin-right: auto;
 margin-left: auto;
 background: url(image/banner.png) no-repeat;
 color:red;
-}
+
 
 #MainContent {
 width: 800px;
@@ -22,3 +22,18 @@ width: 802px;
 margin-right: auto;
 margin-left: auto;
 height:50px;
+}
+
+#FooterLeft {
+float:left;
+width:399px;
+height:50px;
+border: 1px solid green;
+}
+
+#FooterRight {
+float:right;
+width:399px;
+height:50px;
+border: 1px solid red;
+}
