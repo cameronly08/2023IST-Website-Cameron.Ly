@@ -1,6 +1,17 @@
-DIV { 
-border: 1px solid #000000
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+
+BODY {
+	font-family: 'Source Sans Pro', sans-serif;
 }
+
+
+
+DIV{
+	border:1px solid #000000
+}
+
+
+
 
 #Header { 
 height: 100px;
@@ -11,15 +22,13 @@ background: url(image/banner.png) no-repeat;
 color:red;
 
 
-#MainContent{
-width: 800px;
+#MainContent {
+width:800px;
 margin-right: auto;
-margin-left: auto;
-height:50px;
-}
+margin-left:auto;
 
 #Footer {
-width: 802px;
+width:802px;
 margin-right: auto;
 margin-left: auto;
 height:50px;
@@ -27,14 +36,20 @@ height:50px;
 
 #FooterLeft {
 float:left;
-width:399px; 
+width:49.5%; 
 height:50px;
 border: 1px solid green;
 }
 
 #FooterRight {
 float:right;
-width:399px;
+width:49.5%;
 height:50px;
 border: 1px solid red;
+}
+
+@media only screen and (max-width:998px) {
+	#Footer, #MainContent, #Header {
+		width:100%;
+	}
 }
