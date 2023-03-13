@@ -78,7 +78,7 @@ border: 1px solid red;
 }
 
 .button-1:hover {
-	color: #FFF;
+	color: #FF0000;
 	background-color: #996515;
 }
 
@@ -92,7 +92,7 @@ border: 1px solid red;
 }
 
 .button-2:hover {
-	color: #FFF;
+	color: #FF0000;
 	background-position: 100%;
 }	
 
