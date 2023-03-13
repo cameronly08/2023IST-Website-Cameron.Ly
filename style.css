@@ -47,21 +47,8 @@ width:49.5%;
 height:50px;
 border: 1px solid red;
 }
-
-@media only screen and (max-width:998px) {
-	#Footer, #MainContent, #Header {
-		width:100%;
-	}
-
-* {
-margin: 0;
-padding: 0;
-box-sizing: border-box;
-font-family: 'Source Sans Pro, sans-serif;
-}
-
 .button-container {
-	display: flex;
+    display: flex;
 	width: 100%;
 	min-height: 100vh;
 	justify-content: center;
@@ -94,5 +81,23 @@ font-family: 'Source Sans Pro, sans-serif;
 	background-color: #FFCE00;
 }
 
+
+.button-2 {
+	color: #FE4880
+	border: 3px solid #FE4880;
+	background-image: linear-gradient (to right, transparent 50%, #FE4880);
+	background-size: 200%
+	background-position: 0%;
+}
+
+.button-2:hover {
 	
-	
+}
+
+@media only screen and (max-width:998px) {
+	#Footer, #MainContent, #Header {
+		width:100%;
+	}
+
+
+
