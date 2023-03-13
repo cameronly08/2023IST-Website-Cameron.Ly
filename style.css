@@ -72,20 +72,20 @@ border: 1px solid red;
 }
 
 .button-1 {
-	color: #FFCE00;
-	border: 3px solid #FFCE00;
+	color: #996515;
+	border: 3px solid #996515;
 }
 
 .button-1:hover {
 	color: #FFF;
-	background-color: #FFCE00;
+	background-color: #996515;
 }
 
 
 .button-2 {
-	color: #FE4880;
-	border: 3px solid #FE4880;
-	background-image: linear-gradient (to right, transparent 50%, #FE4880  50%);
+	color: #FF0000;
+	border: 3px solid #FF0000;
+	background-image: linear-gradient (to right, transparent 50%, #FF0000  50%);
 	background-size: 200%;
 	background-position: 0%
 }
