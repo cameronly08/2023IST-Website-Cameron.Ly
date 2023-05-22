@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 480" style="enable-background:new 0 0 640 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#58595B;stroke:#231F20;stroke-width:1;stroke-miterlimit:9.9999;}
+	.st1{fill:#6D6E71;stroke:#231F20;stroke-width:1;stroke-miterlimit:9.9999;}
+	.st2{fill:url(#SVGID_1_);stroke:#231F20;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{font-family:'GillSans-UltraBold';}
+	.st5{font-size:24px;}
+	.st6{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
+</style>
+<rect x="290.4" y="213.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -76.8329 294.5023)" class="st0" width="53.4" height="53.4"/>
+<rect x="335.9" y="212.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -63.1844 326.585)" class="st1" width="53.4" height="53.4"/>
+<rect x="244" y="213.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -90.4169 261.6999)" class="st0" width="53.4" height="53.4"/>
+<rect x="206.9" y="212.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -100.9664 235.3832)" class="st0" width="53.4" height="53.4"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="256.04" y1="239.26" x2="336.04" y2="239.26" gradientTransform="matrix(1 0 0 -1 0 480)">
+	<stop  offset="8.800000e-02" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#231F20"/>
+</linearGradient>
+<ellipse class="st2" cx="296" cy="240.7" rx="40" ry="14.6"/>
+<rect x="240.8" y="292.5" class="st3" width="194.5" height="35.5"/>
+<text transform="matrix(1 0 0 1 240.8125 310.3828)" class="st4 st5">CAM AI</text>
+<ellipse class="st6" cx="320.7" cy="240.7" rx="8" ry="5"/>
+<ellipse class="st6" cx="271.4" cy="240.7" rx="8" ry="5"/>
+</svg>
