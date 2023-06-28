@@ -45,6 +45,17 @@
       margin-right: 20px;
     }
 
+    .pros-cons .video-container {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    .pros-cons .video-container iframe {
+      max-width: 100%;
+      height: auto;
+    }
+
     .back-button {
       margin-bottom: 20px;
     }
@@ -57,7 +68,7 @@
     <div class="pros-cons">
       <h2>Pros</h2>
       <div class="image-container">
-        <img src="image5.jpg" alt="Pros Image">
+        <img src="image5.png" alt="Pros Image">
       </div>
       <p>Pros of AI:</p>
       <ul>
@@ -66,12 +77,15 @@
         <li>Ability to process and analyze large amounts of data</li>
         <li>Enhanced decision-making capabilities</li>
       </ul>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
     </div>
 
     <div class="pros-cons">
       <h2>Cons</h2>
       <div class="image-container">
-        <img src="image6.jpg" alt="Cons Image">
+        <img src="image6.png" alt="Cons Image">
       </div>
       <p>Cons of AI:</p>
       <ul>
@@ -80,11 +94,14 @@
         <li>Reliance on technology</li>
         <li>Ethical considerations</li>
       </ul>
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://youtu.be/g1SKZRQUmzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
     </div>
 
     <a href="javascript:history.back()" class="btn btn-primary back-button">Back to Previous Page</a>
   </div>
 
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.bundle.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js"></script>
 </body>
 </html>
